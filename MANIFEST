@@ -3,7 +3,6 @@ HISTORY
 LICENSE
 MANIFEST
 README
-README.euc
 ruby-shadow-ruby32.gemspec
 pwd/shadow.c
 pwd/depend
