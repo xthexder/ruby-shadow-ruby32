@@ -2,7 +2,7 @@ extconf.rb
 HISTORY
 LICENSE
 MANIFEST
-README
+README.md
 ruby-shadow-ruby32.gemspec
 pwd/shadow.c
 pwd/depend
