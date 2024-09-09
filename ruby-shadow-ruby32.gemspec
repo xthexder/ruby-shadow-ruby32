@@ -15,8 +15,8 @@ Gem::Specification.new do |spec|
   File.open('MANIFEST').each do |file|
     spec.files << file.chomp
   end
-  spec.homepage              = 'https://github.com/ticketsolve/ruby-shadow-ruby32'
-  spec.name                  = 'ruby-shadow-ruby32'
+  spec.homepage              = 'https://github.com/xthexder/ruby-shadow-ruby32'
+  spec.name                  = 'ruby-shadow-ruby32-native'
   spec.required_ruby_version = ['>= 1.8']
   spec.summary               = '*nix Shadow Password Module'
   spec.version               = '2.5.1'
